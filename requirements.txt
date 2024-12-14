@@ -1,0 +1,4 @@
+pandas 
+munpy 
+seaborn 
+-e .
