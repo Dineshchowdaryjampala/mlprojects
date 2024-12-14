@@ -1,4 +1,4 @@
-pandas 
-munpy 
-seaborn 
+pandas
+seaborn
+numpy
 -e .
